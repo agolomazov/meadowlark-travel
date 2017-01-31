@@ -1,9 +1,9 @@
 # Тестовый проект на Node JS и Express
 
-> Использован:
-    * Node JS
-    * Express
-    * Handlebars
+Использован:
+* Node JS
+* Express
+* Handlebars
 
 Для развертывание проекта необходимо:
 ```
