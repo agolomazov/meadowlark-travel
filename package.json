@@ -1,0 +1,18 @@
+{
+  "name": "express-app.local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meadowlark.js",
+  "scripts": {
+    "start": "node meadowlark.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "open": "0.0.5"
+  }
+}
